@@ -21,7 +21,7 @@ const Frontend = () => {
           <i class='bx bxl-css3'></i>
             <div>
               <h3 className="skills__name">CSS</h3>
-              <span className="skills___level">Basic</span>
+              <span className="skills___level">Intermediate</span>
             </div>
           </div>
 
@@ -41,7 +41,7 @@ const Frontend = () => {
           <i class='bx bxl-bootstrap' ></i>
             <div>
               <h3 className="skills__name">Bootstrap</h3>
-              <span className="skills___level">Basic</span>
+              <span className="skills___level">Intermediate</span>
             </div>
           </div>
 
@@ -59,7 +59,7 @@ const Frontend = () => {
           <i class='bx bxl-react' ></i>   
             <div>
               <h3 className="skills__name">React</h3>
-              <span className="skills___level">Basic</span>
+              <span className="skills___level">Intermediate</span>
             </div>
           </div>
         </div>
