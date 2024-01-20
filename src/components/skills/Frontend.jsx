@@ -59,9 +59,11 @@ const Frontend = () => {
           <i class='bx bxl-react' ></i>   
             <div>
               <h3 className="skills__name">React</h3>
-              <span className="skills___level">Intermediate</span>
+              <span className="skills___level">Basic</span>
             </div>
           </div>
+
+
         </div>
         
       </div>
